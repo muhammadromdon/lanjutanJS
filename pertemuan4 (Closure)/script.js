@@ -1,3 +1,5 @@
+// Closure adalah sebuah function yang dikembalikan oleh function yang lain, yang memiliki akses ke lingkungan global scope
+
 // function init() {
 //     let nama = 'Romdon'
 
